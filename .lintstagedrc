@@ -1,0 +1,7 @@
+{
+  ".eslintrc": "node_modules/.bin/eslint --fix",
+  ".babelrc": "node_modules/.bin/eslint --fix",
+  "src/**/*.{js,jsx}": "node_modules/.bin/eslint --fix",
+  "styleguide/**/*.{js,jsx}": "node_modules/.bin/eslint --fix",
+  "webpack/**/*.{js,jsx}": "node_modules/.bin/eslint --fix"
+}
